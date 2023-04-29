@@ -1,4 +1,4 @@
-Hi, I’m @niklasbuhl!
+Hi, I’m [@niklasbuhl](https://github.com/niklasbuhl)!
 
 <!---
 niklasbuhl/niklasbuhl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
