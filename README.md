@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @niklasbuhl
-- 👀 I’m interested in embedded systems and it
-- 🌱 I’m currently learning typescript and soon rust
+Hi, I’m @niklasbuhl!
 
 <!---
 niklasbuhl/niklasbuhl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
